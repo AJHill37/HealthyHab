@@ -24,7 +24,7 @@ public class BaseActivity extends AppCompatActivity {
             mProgressDialog.dismiss();
         }
     }
-
+    //a
     @Override
     public void onStop() {
         super.onStop();
