@@ -7,7 +7,7 @@ android {
     flavorDimensions "minSdkVersion"
 
     defaultConfig {
-        applicationId "com.google.firebase.quickstart.auth"
+        applicationId "janda.lfg"
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 1
