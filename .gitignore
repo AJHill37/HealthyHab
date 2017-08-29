@@ -1,4 +1,3 @@
-.gradle
 local.properties
 .idea
 build/
@@ -7,4 +6,3 @@ build/
 *.apk
 *.aar
 *.zip
-google-services.json

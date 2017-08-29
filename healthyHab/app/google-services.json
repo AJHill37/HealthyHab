@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "82877562890",
+    "firebase_url": "https://healthyhab-b53d0.firebaseio.com",
+    "project_id": "healthyhab-b53d0",
+    "storage_bucket": "healthyhab-b53d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82877562890:android:1cdc7771106fa16d",
+        "android_client_info": {
+          "package_name": "janda.healthyHab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82877562890-kv9k0sbmfnd40h3j4s0anshitfovvbe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "janda.healthyHab",
+            "certificate_hash": "294ea6c735960f11759015c51ba58ba9d80e92c2"
+          }
+        },
+        {
+          "client_id": "82877562890-6b4kbfiqfg74sj4u7p5rj3m38t0ojtu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4tsi8bJ39No6gKeguXEhY0ivIxwnKYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82877562890-6b4kbfiqfg74sj4u7p5rj3m38t0ojtu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
