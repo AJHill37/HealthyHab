@@ -1,1 +1,1 @@
-include ':auth:app'
+include ':healthyHab:app'
